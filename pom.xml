@@ -1,9 +1,9 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.cure</groupId>
-  <artifactId>openmrs-config-uganda</artifactId>
-  <name>OpenMRS config - Uganda</name>
-  <description>OpenMRS configuration for the CURE Uganda distribution</description>
+  <artifactId>openmrs-config-kenya</artifactId>
+  <name>OpenMRS config - Kenya</name>
+  <description>OpenMRS configuration for the AIC-CURE International Hospital distribution</description>
   <version>1.0.1</version>
   <packaging>pom</packaging>
 
